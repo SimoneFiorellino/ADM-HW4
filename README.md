@@ -10,8 +10,9 @@ The algorithm implemented were:
 - KMeans
 
 ## Data
-The datasets used, available [here](https://drive.google.com/file/d/19SD2db0dH2A0QLJOmBHnkbqOX6SbERcY/view?usp=sharing) for the test of the hyperloglog
-and [here](https://www.kaggle.com/snap/amazon-fine-food-reviews) for the clustering part.
+The datasets used are 
+- available [here](https://drive.google.com/file/d/19SD2db0dH2A0QLJOmBHnkbqOX6SbERcY/view?usp=sharing) for the test of the hyperloglog,
+- and [here](https://www.kaggle.com/snap/amazon-fine-food-reviews) for the clustering part.
 
 ## Content
 The repository contains:
