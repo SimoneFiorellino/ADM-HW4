@@ -5,7 +5,7 @@
 The goal of the project is write important algorithms and functions from scratch.
 
 The algorithm implemented were:
-- hash function CRC32 bit
+- hash function CRC
 - hyperloglog
 - KMeans
 
