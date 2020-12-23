@@ -5,7 +5,7 @@
 The goal of the project is write important algorithms and functions from scratch.
 
 The algorithm implemented were:
-- hash fuction
+- hash function CRC32 bit
 - hyperloglog
 - KMeans
 
@@ -19,4 +19,4 @@ The repository contains:
 	> the Jupyter notebook  that contains all the answers to the homework.
 	
 	
-[click here]() to see the jupyter notebook viewer.
+[click here](https://nbviewer.jupyter.org/github/SimoneFiorellino/ADM-HW4/blob/main/Reviews.ipynb) to see the jupyter notebook viewer.
